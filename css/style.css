@@ -1,0 +1,14 @@
+/*import fonts from fonts.css*/
+@import url(./fonts.css);
+
+
+/* start navigation */
+
+.header-area.main-menu.navbar navbar-expand-lg navbar-light.navbar-brand{
+  padding: 0 2rem 0 5rem;
+}
+.header-area.main-menu.navbar navbar-expand-lg navbar-light{
+  padding: 1rem 20rem;
+}
+
+/* end navigation */
